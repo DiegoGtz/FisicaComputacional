@@ -41,6 +41,7 @@ void lorentz(){
 	double x = 5.0;
 	double y = 5.0;	
 	double z = 5.0;
+	double m = 3.0;
 
 	while (To <= 3000){	
 		cout<<x<<"   "<<y<<"    "<<z<<"    "<<endl;
